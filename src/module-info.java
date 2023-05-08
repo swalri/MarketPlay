@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author for
+ *
+ */
+module MarketPlay {
+}
